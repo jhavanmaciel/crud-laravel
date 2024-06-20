@@ -1,0 +1,51 @@
+.name-required{
+    display: none;
+    color: red;
+    font-size: 18px;
+}
+.email-required{
+    display: none;
+    color: red;
+    font-size: 18px;
+}
+.telefone-required{
+    display: none;
+    color: red;
+    font-size: 18px;
+}
+body{
+    background-color: #fefefe;
+}
+.container{
+    padding-top: 5vh;
+}
+.titulo{
+   color: #5d217b;
+}
+.btn-custom{
+    background-color: #7425b3;
+    color: antiquewhite;
+}
+
+.btn-custom:hover{
+    background-color: #562081;
+    color: antiquewhite;
+}
+nav{
+    background-color: #7425b3;
+    height: 7vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.dataTables_length{
+    padding-bottom: 2vh;
+}
+.crud_datatable{
+    padding-bottom: 2vh;
+}
+.paginate_button.current{
+    background: #be94df!important;
+    color: #fff !important;
+    border: 0 !important;
+}

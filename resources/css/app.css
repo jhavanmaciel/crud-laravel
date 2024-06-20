@@ -1,0 +1,8 @@
+.name-required{
+    display: none;
+    color: red;
+    font-size: 18px;
+}
+body{
+background-color: rgb(13, 218, 150) !important;    
+}
